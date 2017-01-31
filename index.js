@@ -7,9 +7,9 @@ var db = level('./leveldb');
 var pg = require('pg');
 
 var config = {  
-    user:"connor",
+    user:"test",
     database:"p2pdata",
-    password:"connor",
+    password:"test",
     port:5432,
     max:20, 
     idleTimeoutMillis:3000,
