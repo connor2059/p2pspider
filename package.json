@@ -13,11 +13,11 @@
   "scripts": {},
   "dependencies": {
     "bencode": "^0.7.0",
-    "bitfield": "^1.1.2"
-    "level": "^1.5.0"
-    "levelup": "^1.3.3"
-    "leveldown": "^1.5.3"
-    "pg": "^6.1.2"
+    "bitfield": "^1.1.2",
+    "level" : "^1.5.0",
+    "levelup" : "^1.3.3",
+    "leveldown": "^1.5.3",
+    "pg"  : "^6.1.2"
   },
   "keywords": [
     "torrent",
