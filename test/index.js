@@ -1,9 +1,9 @@
 'use strict';
 
-var P2PSpider = require('./lib');
+var P2PSpider = require('../lib');
 var level = require('level');
 
-var db = level('./leveldb');
+var db = level('../leveldb');
 var pg = require('pg');
 
 var config = {  
